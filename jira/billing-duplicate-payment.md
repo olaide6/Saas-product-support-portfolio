@@ -38,6 +38,11 @@ This issue affects customer trust and payment processing.
 
 ---
 
+
+## Jira Ticket
+
+![Billing Duplicate Payment Ticket](screenshots/billing-duplicate-payment-ticket.png)
+
 ## Jira Ticket Screenshot
 
 ![Billing Ticket](../screenshots/billing-duplicate-payment-ticket.png)
